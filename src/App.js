@@ -26,7 +26,7 @@ function App() {
         <Form setStudentList={setStudentList} studentList={studentList}/>
       </Row>
 
-      <ListStudent setStudentList={setStudentLists} studentList={studentList}/>
+      <ListStudent setStudentList={setStudentList} studentList={studentList}/>
 
     </Container>  
   )
